@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1404097422 source:c:\workspace\c++\cifrados\main.cpp
+	<iostream>
+	"Playfair.h"
+
+1404099846 c:\workspace\c++\cifrados\include\playfair.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<utility>
+
+1404099902 source:c:\workspace\c++\cifrados\src\playfair.cpp
+	"Playfair.h"
+
