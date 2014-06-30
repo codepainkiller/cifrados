@@ -24,9 +24,19 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Afin.h" />
+		<Unit filename="include/Cesar.h" />
+		<Unit filename="include/Hill.h" />
 		<Unit filename="include/Playfair.h" />
+		<Unit filename="include/Vernam.h" />
+		<Unit filename="include/Vigenere.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Afin.cpp" />
+		<Unit filename="src/Cesar.cpp" />
+		<Unit filename="src/Hill.cpp" />
 		<Unit filename="src/Playfair.cpp" />
+		<Unit filename="src/Vernam.cpp" />
+		<Unit filename="src/Vigenere.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

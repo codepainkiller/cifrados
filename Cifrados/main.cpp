@@ -1,5 +1,11 @@
-#include <iostream>
+#include "Cesar.h"
+#include "Afin.h"
+#include "Vigenere.h"
 #include "Playfair.h"
+#include "Hill.h"
+#include "Vernam.h"
+
+#include <iostream>
 
 using namespace std;
 

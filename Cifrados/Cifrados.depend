@@ -13,3 +13,46 @@
 1404099902 source:c:\workspace\c++\cifrados\src\playfair.cpp
 	"Playfair.h"
 
+1404100141 source:c:\workspace\c++\aucc-cifrados\cifrados\main.cpp
+	<iostream>
+	"Playfair.h"
+
+1404101752 c:\workspace\c++\aucc-cifrados\cifrados\include\playfair.h
+	<iostream>
+	<string>
+
+1404100141 source:c:\workspace\c++\aucc-cifrados\cifrados\src\playfair.cpp
+	"Playfair.h"
+
+1404104884 source:c:\workspace\c++\aucc-cifrados\cifrados\src\afin.cpp
+	"Afin.h"
+
+1404104884 c:\workspace\c++\aucc-cifrados\cifrados\include\afin.h
+	<string>
+	<vector>
+	<iostream>
+
+1404104625 source:c:\workspace\c++\aucc-cifrados\cifrados\src\cesar.cpp
+	"Cesar.h"
+
+1404104911 c:\workspace\c++\aucc-cifrados\cifrados\include\cesar.h
+	<string>
+	<iostream>
+
+1404102342 source:c:\workspace\c++\aucc-cifrados\cifrados\src\hill.cpp
+	"Hill.h"
+
+1404102332 c:\workspace\c++\aucc-cifrados\cifrados\include\hill.h
+
+1404102406 source:c:\workspace\c++\aucc-cifrados\cifrados\src\vernam.cpp
+	"Vernam.h"
+
+1404102398 c:\workspace\c++\aucc-cifrados\cifrados\include\vernam.h
+
+1404103141 source:c:\workspace\c++\aucc-cifrados\cifrados\src\vigenere.cpp
+	"Vigenere.h"
+
+1404104933 c:\workspace\c++\aucc-cifrados\cifrados\include\vigenere.h
+	<string>
+	<iostream>
+
